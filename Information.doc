@@ -1,0 +1,13 @@
+In this file you can find out what I did in this routing and routin categories simple Laravel project ;
+  
+  1) I changed the name of bar itself to be "Beshoy Mourad" instead of "Laravel".
+  2) Routing /about to welcome you by "Welcome George".
+  3) Routing /store to be able to change the messages ( I make it as store and products for men or women or anything).
+  3.1) Using "if" to avoid not entering any string by making a default state.
+  3.2) Using strip_tags to stop hackers scripts ( Security inhancements).
+  4) Routing /coffee_shop with category and item parameters.
+  4.1) putting "?" after a parameter to make adding parameters optional.
+  4.2) putting parameters=null is to avoid "too few arguments" error.
+  4.3) Using "if" to avoid not entering any value for the parameters by making a default state.
+  
+  
